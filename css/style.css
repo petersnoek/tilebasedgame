@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.levelmap {
+	border: 1px solid white;
+	width: 320px;
+	height: 320px;
+}
+
+.row {
+	margin: 0;
+	padding: 0;	
+}
+
+.row div {
+	box-sizing: border-box;
+	width: 32px;
+	height: 32px;
+	border: 1px solid silver;
+	background-color: grey;
+	float:left;
+	margin: 0;
+	padding: 0;
+}
